@@ -1,0 +1,26 @@
+{
+  "name": "zen-show-int",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenzenqazzaq/zen-show-int.git"
+  },
+  "keywords": [
+    "zen-show-int"
+  ],
+  "author": "zenzenqazzaq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenzenqazzaq/zen-show-int/issues"
+  },
+  "homepage": "https://github.com/zenzenqazzaq/zen-show-int#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "zen-round-number": "1.0.0",
+    "zen-football-leagues": "1.0.2"
+  }
+}
